@@ -1,0 +1,11 @@
+.hover\\:text-\\#FE5B38:hover {
+    color: #068278;
+  }
+  
+  .active\\:text-\\#FE5B38:active {
+    color: #068278;
+  }
+  
+  .clicked {
+    color: #068278 !important;
+  }
